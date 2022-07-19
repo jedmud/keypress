@@ -1,0 +1,26 @@
+{
+  "name": "@jedmud/keypress",
+  "version": "0.0.1",
+  "description": "Emits keypress events from terminal.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmud/keypress.git"
+  },
+  "keywords": [
+    "keypress",
+    "jedmud",
+    "terminal",
+    "ui",
+    "tui"
+  ],
+  "author": "Tanel Tammik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmud/keypress/issues"
+  },
+  "homepage": "https://github.com/jedmud/keypress#readme"
+}
